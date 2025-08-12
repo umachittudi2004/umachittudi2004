@@ -62,7 +62,7 @@ Technical Hub, Surampalem
 
 - **Email:** umachittudi2004@gmail.com
 - **Portfolio:** [Portfolio](https://portfoliofrontend-theta.vercel.app/) <!-- Update with your actual link -->
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/uma-maheswara-rao-chittudi-15764125b/) <!-- Update with your actual link -->
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/uma-maheswara-rao-chittudi-15764125b/) <!-- Update with your actual link -->
 
 ---
 
