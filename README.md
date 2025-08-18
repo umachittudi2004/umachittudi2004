@@ -38,8 +38,11 @@ Welcome to my GitHub profile! I'm a passionate web developer and a B.Tech Data S
 - Created a dynamic spin wheel for destination selection, improving user experience.
 
 ### Victory Vault (Personal Project)
-- Developed a responsive sports score tracking app using the **MERN stack**.
-- Implemented real-time score updates and interactive graphs with Chart.js for player stats visualization.
+- Oversaw the design and maintenance of structured datasets covering players, matches, and leagues across Cricket and other sports, ensuring streamlined data flow and quick retrieval.
+
+- Built dynamic data dashboards with **React.js** and modern charting libraries, resulting in user interaction with performance insights and match statistics.
+
+- Implemented efficient **MongoDB aggregation** pipelines to filter, transform, and serve context-specific data, optimizing backend queries and improving page load times.
 
 ### Chattify (Personal Project)
 - Built a real-time chat application using the **MERN stack** and **Socket.io** for seamless bi-directional user communication.
