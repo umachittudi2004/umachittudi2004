@@ -15,11 +15,14 @@ Welcome to my GitHub profile! I'm a passionate web developer and a B.Tech Data S
 
 ##  Technical Skills
 
-- **Languages & Frameworks:** JavaScript (ES6+), React.js, HTML, CSS, Express.js, Bootstrap, Tailwind, Python
-- **Databases:** MongoDB, SQL
-- **Back-End:** Node.js, Express.js, API Integration
-- **Tools & Platforms:** Git, GitHub, VS Code
-- **Web Development:** Responsive Design, Performance Optimization
+## Technical Skills
+
+**Core Technologies:** JavaScript (ES6+), Python, HTML, CSS  
+**Frontend:** React.js, Vite, Tailwind CSS, Bootstrap, Framer Motion  
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
+**Databases:** MongoDB, SQL  
+**Tools & Platforms:** Git, GitHub, VS Code, Socket.io  
+**Programming & Problem Solving:** HackerRank 5 Star in Python
 
 ---
 
