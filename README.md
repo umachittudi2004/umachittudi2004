@@ -33,20 +33,24 @@ Welcome to my GitHub profile! I'm a passionate web developer and a B.Tech Data S
 
 ##  Featured Projects
 
-### Trecks And Travels (Personal Project)
-- Designed and built an interactive travel website using **JavaScript, HTML, and CSS** to enhance user engagement.
-- Created a dynamic spin wheel for destination selection, improving user experience.
+## Academic Management System - Full-Stack Web Application
+- Designed and developed a MERN-based academic management platform to manage assignments, attendance, notices, and timetables.  
+- Implemented JWT-based authentication with role-based access control to securely handle student and faculty permissions.  
+- Engineered an IP-based smart attendance mechanism to automate attendance tracking and reduce manual effort.  
+- Built real-time messaging and notification features using Socket.io to enable instant communication without page refresh.  
+- Developed assignment submission and grading workflows with file uploads integrated via Google Drive.  
+- Followed a modular backend architecture and optimized database queries for maintainability and efficient data retrieval.  
 
-### Victory Vault (Personal Project)
-- Oversaw the design and maintenance of structured datasets covering players, matches, and leagues across Cricket and other sports, ensuring streamlined data flow and quick retrieval.
+## Victory Vault - Sports Analytics Platform
+- Developed interactive dashboards using React to visualize player performance and match statistics.  
+- Built backend APIs and utilized MongoDB aggregation pipelines for analytical data processing.  
+- Designed reusable frontend components for consistent UI behavior and easier feature enhancements.  
 
-- Built dynamic data dashboards with **React.js** and modern charting libraries, resulting in user interaction with performance insights and match statistics.
+## Chattify - Real-Time Chat Application
+- Built a real-time chat application using the MERN stack with Socket.io for instant message delivery.  
+- Implemented online and offline presence indicators to improve user interaction awareness.  
+- Optimized global state management using Zustand for smoother UI updates.
 
-- Implemented efficient **MongoDB aggregation** pipelines to filter, transform, and serve context-specific data, optimizing backend queries and improving page load times.
-
-### Chattify (Personal Project)
-- Built a real-time chat application using the **MERN stack** and **Socket.io** for seamless bi-directional user communication.
-- Implemented online/offline user presence tracking and scalable global state management with Zustand.
 
 ---
 
