@@ -1,0 +1,28 @@
+.badge {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.badge-unattempted {
+  background-color: #e0e0e0;
+  color: var(--text-primary);
+}
+
+.badge-solved {
+  background-color: rgba(76, 175, 80, 0.2);
+  color: var(--success-color);
+}
+
+.badge-revision {
+  background-color: rgba(255, 152, 0, 0.2);
+  color: var(--warning-color);
+}
+
+.badge-mastered {
+  background-color: rgba(25, 118, 210, 0.2);
+  color: var(--primary-color);
+}
